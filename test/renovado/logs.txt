@@ -1,0 +1,29 @@
+NFC reader: ACS / ACR122U PICC Interface opened
+Found MIFARE Classic card:
+ISO/IEC 14443A (106 kbps) target:
+    ATQA (SENS_RES): 00  04  
+       UID (NFCID1): e6  af  de  1a  
+      SAK (SEL_RES): 08  
+Guessing size: seems to be a 1024-byte card
+Reading out 64 blocks |................................................................|
+Done, 64 of 64 blocks read.
+Writing data to file: userCard.mfd ...Done.
+NFC reader: ACS / ACR122U PICC Interface opened
+Found MIFARE Classic card:
+ISO/IEC 14443A (106 kbps) target:
+    ATQA (SENS_RES): 00  04  
+       UID (NFCID1): e6  af  de  1a  
+      SAK (SEL_RES): 08  
+Guessing size: seems to be a 1024-byte card
+Reading out 64 blocks |................................................................|
+Done, 64 of 64 blocks read.
+Writing data to file: rawcard.mfd ...Done.
+NFC reader: ACS / ACR122U PICC Interface opened
+Found MIFARE Classic card:
+ISO/IEC 14443A (106 kbps) target:
+    ATQA (SENS_RES): 00  04  
+       UID (NFCID1): e6  af  de  1a  
+      SAK (SEL_RES): 08  
+Guessing size: seems to be a 1024-byte card
+Writing 64 blocks |...............................................................|
+Done, 63 of 64 blocks written.
